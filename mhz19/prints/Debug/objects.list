@@ -1,0 +1,5 @@
+"./Src/main.o"
+"./Src/timer2.o"
+"./Src/usart1.o"
+"./Src/usart2.o"
+"./Startup/startup_stm32f303retx.o"
