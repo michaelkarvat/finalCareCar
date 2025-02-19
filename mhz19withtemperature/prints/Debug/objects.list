@@ -1,0 +1,6 @@
+"./Src/main.o"
+"./Src/mhz19.o"
+"./Src/mhz19_usart1.o"
+"./Src/timer2.o"
+"./Src/usart2.o"
+"./Startup/startup_stm32f303retx.o"
