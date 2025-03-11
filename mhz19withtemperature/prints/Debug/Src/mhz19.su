@@ -1,0 +1,3 @@
+../Src/mhz19.c:12:9:MHZ19_checksum	24	static
+../Src/mhz19.c:24:6:MHZ19_sendReadCommand	16	static
+../Src/mhz19.c:32:6:MHZ19_process	32	static
